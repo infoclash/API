@@ -1,2 +1,2 @@
 # API
-InfoClash Network Official API
+Parhly.com Website's Official API
